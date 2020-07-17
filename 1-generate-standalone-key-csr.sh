@@ -5,10 +5,10 @@
 # Global Variables
 serverType="standalone"
 country="US"
-state="MA"
-city="Boston"
+state="MO"
+city="St. Louis"
 organization="CyberArk"
-commonName="dap-standalone.cyber-ark-demo.local"
+commonName="dap-standalone.myorg.local"
 
 # Generate SSL Key
 sudo openssl genrsa -out dap-$serverType.key 2048
