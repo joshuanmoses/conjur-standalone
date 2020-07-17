@@ -5,7 +5,7 @@
 # Global Variables
 masterContainer="dap-standalone"
 masterIP="10.0.0.105"
-version="11.2.1"		## Change to installation version
+version="11.4.0"		## Change to installation version
 
 # Create Docker Container
 echo "Creating DAP Master Server Container"
