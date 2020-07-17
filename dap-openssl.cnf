@@ -144,7 +144,7 @@ localityName_default		= Default City
 #1.organizationName		= Second Organization Name (eg, company)
 #1.organizationName_default	= CyberArk
 
-organizationalUnitName		= CAU (eg, section)
+organizationalUnitName		= myorg (eg, section)
 #organizationalUnitName_default	=
 
 commonName			= conjur-master.cyber-ark-demo.local (eg, your name or your server\'s hostname)
